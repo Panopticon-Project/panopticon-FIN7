@@ -11,3 +11,5 @@ https://twitter.com/gh0std4ncer/status/1430946044582498312
 https://www.crowdstrike.com/blog/how-crowdstrike-stopped-an-sql-injection-campaign
 
 https://www.crowdstrike.com/blog/carbon-spider-embraces-big-game-hunting-part-1
+
+https://thehackernews.com/2021/09/fin7-hackers-using-windows-11-themed.html
