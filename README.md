@@ -13,3 +13,5 @@ https://www.crowdstrike.com/blog/how-crowdstrike-stopped-an-sql-injection-campai
 https://www.crowdstrike.com/blog/carbon-spider-embraces-big-game-hunting-part-1
 
 https://thehackernews.com/2021/09/fin7-hackers-using-windows-11-themed.html
+
+https://github.com/StrangerealIntel/CyberThreatIntel/blob/master/cybercriminal%20groups/FIN7/2021-09-07/FIN7.md
