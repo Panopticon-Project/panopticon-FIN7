@@ -15,3 +15,7 @@ https://www.crowdstrike.com/blog/carbon-spider-embraces-big-game-hunting-part-1
 https://thehackernews.com/2021/09/fin7-hackers-using-windows-11-themed.html
 
 https://github.com/StrangerealIntel/CyberThreatIntel/blob/master/cybercriminal%20groups/FIN7/2021-09-07/FIN7.md
+
+https://www.crowdstrike.com/blog/carbon-spider-sprite-spider-target-esxi-servers-with-ransomware/
+
+https://www.crowdstrike.com/blog/hypervisor-jackpotting-ecrime-actors-increase-targeting-of-esxi-servers/
