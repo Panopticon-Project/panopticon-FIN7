@@ -21,3 +21,5 @@ https://www.crowdstrike.com/blog/carbon-spider-sprite-spider-target-esxi-servers
 https://www.crowdstrike.com/blog/hypervisor-jackpotting-ecrime-actors-increase-targeting-of-esxi-servers/
 
 https://www.bleepingcomputer.com/news/security/hacking-gang-creates-fake-firm-to-hire-pentesters-for-ransomware-attacks/
+
+https://www.crowdstrike.com/blog/carbon-spider-embraces-big-game-hunting-part-2 - carbon spider
