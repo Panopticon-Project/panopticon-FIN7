@@ -23,3 +23,5 @@ https://www.crowdstrike.com/blog/hypervisor-jackpotting-ecrime-actors-increase-t
 https://www.bleepingcomputer.com/news/security/hacking-gang-creates-fake-firm-to-hire-pentesters-for-ransomware-attacks/
 
 https://www.crowdstrike.com/blog/carbon-spider-embraces-big-game-hunting-part-2 - carbon spider
+
+https://www.cyberscoop.com/alleged-fin7-scammer-denys-iarmak-is-set-to-plead-guilty/
