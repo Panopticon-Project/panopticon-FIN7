@@ -25,3 +25,5 @@ https://www.bleepingcomputer.com/news/security/hacking-gang-creates-fake-firm-to
 https://www.crowdstrike.com/blog/carbon-spider-embraces-big-game-hunting-part-2 - carbon spider
 
 https://www.cyberscoop.com/alleged-fin7-scammer-denys-iarmak-is-set-to-plead-guilty/
+
+https://therecord.media/fin7-hacker-trialed-in-russia-gets-no-prison-time/
