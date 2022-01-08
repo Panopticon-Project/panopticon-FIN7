@@ -27,3 +27,5 @@ https://www.crowdstrike.com/blog/carbon-spider-embraces-big-game-hunting-part-2 
 https://www.cyberscoop.com/alleged-fin7-scammer-denys-iarmak-is-set-to-plead-guilty/
 
 https://therecord.media/fin7-hacker-trialed-in-russia-gets-no-prison-time/
+
+https://therecord.media/fbi-fin7-hackers-target-us-companies-with-badusb-devices-to-install-ransomware/
