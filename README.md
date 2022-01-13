@@ -29,3 +29,5 @@ https://www.cyberscoop.com/alleged-fin7-scammer-denys-iarmak-is-set-to-plead-gui
 https://therecord.media/fin7-hacker-trialed-in-russia-gets-no-prison-time/
 
 https://therecord.media/fbi-fin7-hackers-target-us-companies-with-badusb-devices-to-install-ransomware/
+
+https://www.zdnet.com/article/fingers-point-to-lazarus-cobalt-fin7-as-key-hacking-groups-focused-on-finance-industry/
