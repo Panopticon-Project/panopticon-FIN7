@@ -35,3 +35,5 @@ https://www.zdnet.com/article/fingers-point-to-lazarus-cobalt-fin7-as-key-hackin
 https://www.securityweek.com/fin7-cybercrime-operation-continues-evolve-despite-arrests
 
 https://www.mandiant.com/resources/evolution-of-fin7
+
+https://www.securityweek.com/third-member-fin7-cybercrime-gang-sentenced-us-prison
