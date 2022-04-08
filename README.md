@@ -33,3 +33,5 @@ https://therecord.media/fbi-fin7-hackers-target-us-companies-with-badusb-devices
 https://www.zdnet.com/article/fingers-point-to-lazarus-cobalt-fin7-as-key-hacking-groups-focused-on-finance-industry/
 
 https://www.securityweek.com/fin7-cybercrime-operation-continues-evolve-despite-arrests
+
+https://www.mandiant.com/resources/evolution-of-fin7
