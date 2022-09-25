@@ -37,3 +37,5 @@ https://www.securityweek.com/fin7-cybercrime-operation-continues-evolve-despite-
 https://www.mandiant.com/resources/evolution-of-fin7
 
 https://www.securityweek.com/third-member-fin7-cybercrime-gang-sentenced-us-prison
+
+https://therecord.media/colonial-pipeline-hackers-add-startling-new-capabilities-to-ransomware-operation/
