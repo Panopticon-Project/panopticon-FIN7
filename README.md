@@ -39,3 +39,5 @@ https://www.mandiant.com/resources/evolution-of-fin7
 https://www.securityweek.com/third-member-fin7-cybercrime-gang-sentenced-us-prison
 
 https://therecord.media/colonial-pipeline-hackers-add-startling-new-capabilities-to-ransomware-operation/
+
+https://www.sentinelone.com/labs/black-basta-ransomware-attacks-deploy-custom-edr-evasion-tools-tied-to-fin7-threat-actor/
