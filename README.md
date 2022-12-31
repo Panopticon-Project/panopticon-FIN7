@@ -41,3 +41,5 @@ https://www.securityweek.com/third-member-fin7-cybercrime-gang-sentenced-us-pris
 https://therecord.media/colonial-pipeline-hackers-add-startling-new-capabilities-to-ransomware-operation/
 
 https://www.sentinelone.com/labs/black-basta-ransomware-attacks-deploy-custom-edr-evasion-tools-tied-to-fin7-threat-actor/
+
+https://www.prodaft.com/resource/detail/fin7-unveiled-deep-dive-notorious-cybercrime-gang
