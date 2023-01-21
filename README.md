@@ -43,3 +43,5 @@ https://therecord.media/colonial-pipeline-hackers-add-startling-new-capabilities
 https://www.sentinelone.com/labs/black-basta-ransomware-attacks-deploy-custom-edr-evasion-tools-tied-to-fin7-threat-actor/
 
 https://www.prodaft.com/resource/detail/fin7-unveiled-deep-dive-notorious-cybercrime-gang
+
+https://www.cynet.com/blog/fin7-it-going-to-be-a-bumpy-ride/
